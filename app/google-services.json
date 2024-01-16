@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "11211068386",
+    "project_id": "techfix-aa78e",
+    "storage_bucket": "techfix-aa78e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11211068386:android:164979859062f5dbd59fbb",
+        "android_client_info": {
+          "package_name": "com.example.techfix"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzjkcABhu0mDGegRgVze0ZRG1Tbw96yeI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
